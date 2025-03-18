@@ -14,7 +14,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-tinywake = "0.1.0"
+tinywake = "0.2.2"
 ```
 
 ### Example
