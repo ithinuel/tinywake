@@ -1,11 +1,12 @@
 [package]
 name = "tinywake"
 description = "A minimal, no_std-compatible waker implementation for Cortex-M async executors."
-version = "0.2.1"
+version = "0.2.2"
 edition = "2024"
 authors = ["Wilfried Chauveau <wilfried.chauveau@ithinuel.me>"]
 license = "MIT"
 repository = "https://github.com/ithinuel/TinyWake"
+documentation = "https://docs.rs/tinywake"
 readme = "README.md"
 keywords = ["async", "bare-metal", "cortex-m", "waker", "executor"]
 categories = ["asynchronous", "no-std", "embedded"]
